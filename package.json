@@ -1,0 +1,9 @@
+{
+  "name": "sequelize-pyrokinesis-associations",
+  "version": "1.0.0",
+  "description": "Практическая работа 1.2: связи таблиц в Sequelize — альбомы и песни pyrokinesis",
+  "main": "src/index.js",
+  "scripts": { "start": "node src/index.js" },
+  "license": "MIT",
+  "dependencies": { "sequelize": "^6.37.3", "sqlite3": "^5.1.7" }
+}
